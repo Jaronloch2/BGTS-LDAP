@@ -1,0 +1,9 @@
+{
+	"name": "Bgtsldap",
+	"slug": "bgtsldap",
+	"namespace": "Bgtsldap",
+	"version": "1.1.1",
+	"author": "Jaronloch",
+	"license": "MIT",
+	"description": "A Simple LDAP Authentication Module for Laravel x Angular JS using Caffeinated Modules."
+}
