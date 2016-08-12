@@ -76,8 +76,11 @@ _A simple LDAP authentication module for Laravel using Caffeinated Module and An
 
 ##### Available Pages:
 `<a ui-sref='bgtsldap-users'>User List</a>`
+
 `<a ui-sref='bgtsldap-user({id:1})'>Specific User ID (ex. 1)</a>`
+
 `<a ui-sref='bgtsldap-user-edit({id:1})'>Modify Specific User ID (ex. 1)</a>`
+
 
 ===
 
